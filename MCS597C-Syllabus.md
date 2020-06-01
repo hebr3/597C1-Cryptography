@@ -6,17 +6,17 @@ E-Mail: brook057@cougars.csusm.edu
 
 Online via Zoom
 
-Monday 5:30 - 8:15pm
+Tuesday 6 - 8pm
 
-Wednesday 5:30 - 8:15pm
+Thursday 6 - 8pm
 
 Session: 6/1/20 - 8/8/20
 
-Final: Wednesday 8/8/20 @ 5:30pm
+Final: Thursday 8/6/20 @ 6pm
 
 ## Course Description
 
-Fundamentals of protecting confidentiality, integrity and availability of information in computer systems. This course covers the fundamentals of cryptographic concepts and methods. Several encryption/decryption algorithms will be discussed.  The  topics  include  an  introduction  to  the  mathematics  behind  cryptography;  cryptographic  algorithms including  classical  methods,  symmetric  key  systems,  public  key  systems,hash  functions,  digital  signatures  and certificates; cryptanalysis and attacks; and access control including authentication and authorization. Assignments include labprojectsto apply public keys, dictionary attacks, digital signatures, and certificates.
+Fundamentals of protecting confidentiality, integrity and availability of information in computer systems. This course covers the fundamentals of cryptographic concepts and methods. Several encryption/decryption algorithms will be discussed.  The  topics  include  an  introduction  to  the  mathematics  behind  cryptography;  cryptographic  algorithms including  classical  methods,  symmetric  key  systems,  public  key  systems,hash  functions,  digital  signatures  and certificates; cryptanalysis and attacks; and access control including authentication and authorization. Assignments include lab projects to apply public keys, dictionary attacks, digital signatures, and certificates.
 
 ## Course Prerequisites
  Graduate student status in the Master of Science in Cybersecurity,a Professional Science Master’s program.

@@ -16,48 +16,47 @@ Final: Thursday 8/6/20 @ 6pm
 
 ## Course Description
 
-Fundamentals of protecting confidentiality, integrity and availability of information in computer systems. This course covers the fundamentals of cryptographic concepts and methods. Several encryption/decryption algorithms will be discussed.  The  topics  include  an  introduction  to  the  mathematics  behind  cryptography; cryptographic  algorithms including  classical  methods, symmetric  key  systems, public  key  systems, hash  functions, digital  signatures  and certificates; cryptanalysis and attacks; and access control including authentication and authorization. Assignments include lab projects to apply public keys, dictionary attacks, digital signatures, and certificates.
+Fundamentals of protecting confidentiality, integrity and availability of information in computer systems. This course covers the fundamentals of cryptographic concepts and methods. Several encryption/decryption algorithms will be discussed. The topics include an introduction to the mathematics behind cryptography; cryptographic algorithms including classical methods, symmetric key systems, public key systems, hash functions, digital signatures and certificates; cryptanalysis and attacks; and access control including authentication and authorization. Assignments include lab projects to apply public keys, dictionary attacks, digital signatures, and certificates.
 
 ## Course Prerequisites
 
- Graduate student status in the Master of Science in Cybersecurity, a Professional Science Master’s program.
+Graduate student status in the Master of Science in Cybersecurity, a Professional Science Master’s program.
 
 ## Course Objectives
 
-* To provide the student with knowledge of the fundamental principles of cryptography
-* Describe the uses of encryption in the field of cybersecurity
-* Understand the use of encryption to address common cybersecurity threats and vulnerabilities
-* Understand classic encryption techniques
-* Understand common modern encryption standards
-* Describe the application of encryption to common activities by use of public-key systems, cryptographic hash functions, digital signatures
-* Understand the applied use of cryptography in access control, authentication, and network transportation
+- To provide the student with knowledge of the fundamental principles of cryptography
+- Describe the uses of encryption in the field of cybersecurity
+- Understand the use of encryption to address common cybersecurity threats and vulnerabilities
+- Understand classic encryption techniques
+- Understand common modern encryption standards
+- Describe the application of encryption to common activities by use of public-key systems, cryptographic hash functions, digital signatures
+- Understand the applied use of cryptography in access control, authentication, and network transportation
 
 ## Required Text
 
 [Cryptography and Network Security: Principles and Practice, 7th Edition, Pearson, ISBN-13: 978-0134444284](https://isbnsearch.org/isbn/9780134444284)
- 
 
 ## Student Learning Outcomes
 
 Upon successful completion of the course, students will be able to:
 
-* Present an overview of the main concepts of symmetric cryptography.
-* Understand the distinction between stream ciphers and block ciphers.
-* Present an overview of Data Encryption Standard (DES).
-* Summarize the principal block cipher design principles.
-* Present an overview of the general structure of Advanced Encryption Standard (AES).
-* Analyze the security of multiple encryption schemes.
-* Present an overview of the basic principles of public-key cryptosystems.
-* Present an overview of the RSA algorithm.
-* Understand the man-in-the-middle attack.
-* Summarize the applications of cryptographic hash functions.
-* Present an overview of the digital signature process.
-* Present an overview of public-key infrastructure conc
+- Present an overview of the main concepts of symmetric cryptography.
+- Understand the distinction between stream ciphers and block ciphers.
+- Present an overview of Data Encryption Standard (DES).
+- Summarize the principal block cipher design principles.
+- Present an overview of the general structure of Advanced Encryption Standard (AES).
+- Analyze the security of multiple encryption schemes.
+- Present an overview of the basic principles of public-key cryptosystems.
+- Present an overview of the RSA algorithm.
+- Understand the man-in-the-middle attack.
+- Summarize the applications of cryptographic hash functions.
+- Present an overview of the digital signature process.
+- Present an overview of public-key infrastructure conc
 
 ## Assessment
 
 | Assignments         | Points |
-|---------------------|-------:|
+| ------------------- | -----: |
 | Quizzes             |    250 |
 | HW Assignments      |    300 |
 | Lab Projects        |    200 |
@@ -75,7 +74,7 @@ Students will complete six homework assignments to reinforce the understandings 
 
 ## Lab Projects (20% of the course grade)
 
-There will be two lab projects that will help students gain a hands-on experience on encryption algorithms, encryption modes, and public key infrastructure. Students will be able to use tools to encrypt/decrypt messages, to understand how public key infrastructure works, how it is used to protect the Web, and how Man-in-the-middle attacks can be defeated by public key infrastructure. The lab projects will be done in a virtual machine environment and a lab report is expected for each lab project. 
+There will be two lab projects that will help students gain a hands-on experience on encryption algorithms, encryption modes, and public key infrastructure. Students will be able to use tools to encrypt/decrypt messages, to understand how public key infrastructure works, how it is used to protect the Web, and how Man-in-the-middle attacks can be defeated by public key infrastructure. The lab projects will be done in a virtual machine environment and a lab report is expected for each lab project.
 
 ## In-class Activities (15% of the course grade)
 
@@ -89,18 +88,18 @@ The final will be a written exam to demonstrate your overall understanding of th
 
 Grades will be assigned based on the cumulative score for all the coursework.
 
-| From | To | Grade |
-|:----:|:--:|------:|
-|  933 |1000|     A |
-|  900 | 932|    -A |
-|  866 | 899|    +B |
-|  833 | 865|     B |
-|  800 | 832|    -B |
-|  766 | 799|    +C |
-|  733 | 765|     C |
-|  700 | 732|    -C |
-|  666 | 699|    +D |
-|  633 | 665|     D |
+| From |  To  | Grade |
+| :--: | :--: | ----: |
+| 933  | 1000 |     A |
+| 900  | 932  |    -A |
+| 866  | 899  |    +B |
+| 833  | 865  |     B |
+| 800  | 832  |    -B |
+| 766  | 799  |    +C |
+| 733  | 765  |     C |
+| 700  | 732  |    -C |
+| 666  | 699  |    +D |
+| 633  | 665  |     D |
 
 ## Students with Disabilities Requiring Reasonable Accommodations
 
@@ -112,9 +111,9 @@ All students must come to virtual class with reading and other assignments compl
 
 ## CSUSM Academic Honesty Policy
 
-> *Each student shall maintain academic honesty in the conduct of his or her studies and other learning activities at CSUSM. The integrity of this academic institution, and the quality of the education provided in its degree programs, are based on the principle of academic honesty.*
+> _Each student shall maintain academic honesty in the conduct of his or her studies and other learning activities at CSUSM. The integrity of this academic institution, and the quality of the education provided in its degree programs, are based on the principle of academic honesty._
 >
-> *The maintenance of academic integrity and quality education is the responsibility of each student within this university and the California State University system. Cheating and plagiarism in connection with an academic program at a campus is listed in Section 41301, Title 5, California Code of Regulations, as an offense for which a student may be expelled, suspended, put on probation, or given a less severe disciplinary sanction.*
+> _The maintenance of academic integrity and quality education is the responsibility of each student within this university and the California State University system. Cheating and plagiarism in connection with an academic program at a campus is listed in Section 41301, Title 5, California Code of Regulations, as an offense for which a student may be expelled, suspended, put on probation, or given a less severe disciplinary sanction._
 
 Incidents of Academic Dishonesty will be reported to the Dean of Students. Sanctions at the University level may include suspension or expulsion from the University.
 
@@ -122,11 +121,13 @@ Incidents of Academic Dishonesty will be reported to the Dean of Students. Sanct
 
 ## Plagiarism
 
-I expect each student will do his/her own work, and contribute equally to group-based discussion and/or processes. Plagiarism or cheating is unacceptable under any circumstances. If you are in doubt about whether your work is paraphrased or plagiarized see the Plagiarism Prevention for Students website 
+I expect each student will do his/her own work, and contribute equally to group-based discussion and/or processes. Plagiarism or cheating is unacceptable under any circumstances. If you are in doubt about whether your work is paraphrased or plagiarized see the Plagiarism Prevention for Students website
 [http://library.csusm.edu/plagiarism/index.html](http://library.csusm.edu/plagiarism/index.html). If there are questions about academic honesty, please consult the University catalog.
 
 ## Communication
 
-If you have a question about the assignments, materials, concepts and so on, please post that question to the forum. I will check the forum daily and respond to any question not adequately addressed by others in the class. Please note that you are encouraged to respond to each other’s forum questions and posts. As mentioned above, online interactions may qualify as participation for that element of your grade. 
+If students have a question about the assignments, materials, concepts and so on, please post that question to the forum. I will check the forum daily and respond to any question not adequately addressed by others in the class. Please note that students are encouraged to respond to each other’s forum questions and posts. As mentioned above, online interactions may qualify as participation for that element of the grade.
 
-If you need to contact me about a personal issue, please use email. It is my intention to respond to all email I receive on the day (it may be evening!) which I receive it. When someone asks a question or makes a comment via email that may be relevant to others, I will very likely post both the question and response in the forum in CougarCourses after removing the sender’s identity information. No participation points will be assigned for relevant general questions sent to me via email instead of being posted. This is intended to encourage forum participation
+If students need to contact me about a personal issue, please use email. It is my intention to respond to all email I receive on the day (it may be evening!) which I receive it. When someone asks a question or makes a comment via email that may be relevant to others, I will very likely post both the question and response in the forum in CougarCourses after removing the sender’s identity information.
+
+Electronic messages (email, forum posts) need not be formal, but they must be professional. Gross disregard for grammar, spelling and the need for punctuation is not acceptable in a professional environment -so let’s get used to it now. When we start talking about legal and ethical issues, there is a great deal of room for interpretation and disagreement. These discussions are encouraged, and being able to disagree with someone without offending them (or becoming offended) is an important skill. But all such communications needs to be thoughtful, respectful, impersonal and constructive.

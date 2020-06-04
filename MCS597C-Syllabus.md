@@ -14,6 +14,8 @@ Session: 6/1/20 - 8/8/20
 
 Final: Thursday 8/6/20 @ 6pm
 
+### test
+
 ## Course Description
 
 Fundamentals of protecting confidentiality, integrity and availability of information in computer systems. This course covers the fundamentals of cryptographic concepts and methods. Several encryption/decryption algorithms will be discussed. The topics include an introduction to the mathematics behind cryptography; cryptographic algorithms including classical methods, symmetric key systems, public key systems, hash functions, digital signatures and certificates; cryptanalysis and attacks; and access control including authentication and authorization. Assignments include lab projects to apply public keys, dictionary attacks, digital signatures, and certificates.

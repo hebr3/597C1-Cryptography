@@ -1,5 +1,12 @@
 # Homework 1
 
+### P-1.4 a,b,c (10pts)
+For each of the following assets, assign a low, moderate, or high impact level for the loss of confidentiality, availability, and integrity, respectively. Justify your answers.
+
+* A student maintaining a blog to post public information.
+* An examination section of a university that is managing sensitive information about exam papers.
+* An information system in a pathological laboratory maintaining the patient data.
+
 ## Problems for 7 th edition textbook:
 
 * Page 27: P-1.4, a, b, c (10pt)

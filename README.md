@@ -1,13 +1,20 @@
 # 597C1-Cryptography
 
 In a fresh VM or CT
-> apt update 
+> apt update
+> 
 > apt upgrade 
+> 
 > apt install git 
+> 
 > apt install pandoc 
+> 
 > apt install texlive 
+> 
 > apt install latexmk 
+> 
 > git clone https://github.com/hebr3/597C1-Cryptography.git 
+> 
 > cd 597C1-Cryptography 
 
 Use pandoc to convert markdown (.md) files to pdf

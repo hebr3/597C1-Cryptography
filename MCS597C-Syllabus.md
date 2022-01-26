@@ -2,19 +2,15 @@
 
 Instructor: Henry Brooks
 
-E-Mail: brook057@cougars.csusm.edu
+E-Mail: hbrooks@csusm.edu
 
 Online via Zoom
 
-Tuesday 6 - 8pm
+Monday 7 - 8:20pm
 
-Thursday 6 - 8pm
+Wednesday 7 - 8:20pm
 
-Session: 6/1/20 - 8/8/20
-
-Final: Thursday 8/6/20 @ 6pm
-
-### test
+Session: 1/24/22 - 5/22/22
 
 ## Course Description
 
@@ -38,6 +34,9 @@ Graduate student status in the Master of Science in Cybersecurity, a Professiona
 
 [Cryptography and Network Security: Principles and Practice, 7th Edition, Pearson, ISBN-13: 978-0134444284](https://isbnsearch.org/isbn/9780134444284)
 
+### Supplimental Text
+[Computer & Internet Security: A Hands-on Approach, 2nd Edition, Wenliang Du, ISBN-13: 978-1733003933](https://isbnsearch.org/isbn/9780134444284)
+
 ## Student Learning Outcomes
 
 Upon successful completion of the course, students will be able to:
@@ -59,32 +58,30 @@ Upon successful completion of the course, students will be able to:
 
 | Assignments         | Points |
 | ------------------- | -----: |
-| Quizzes             |    250 |
-| HW Assignments      |    300 |
-| Lab Projects        |    200 |
-| In-class Activities |    150 |
-| Final               |    100 |
+| Quizzes             |    300 |
+| Assignments         |    500 |
+| In-class Activities |    200 |
 | Total points        |   1000 |
 
-## Quizzes (25% of the course grade)
+## Quizzes (30% of the course grade)
 
-There will generally be a “subject knowledge” quiz after each class. Each quiz may contain T/F, multiple choice, and/or short-answer questions. Most quiz questions will relate to the recent homework but may include anything we’ve studied or discussed in class. Quizzes are intended to demonstrate understanding of the assigned readings and class discussions. Unless otherwise noted, quizzes are open book, open notes. Use the web to help find answers to questions. Quizzes are untimed.
+There will generally be a “subject knowledge” quiz every two weeks. Each quiz may contain T/F, multiple choice, short-answer and/or essay questions. Most quiz questions will relate to the recent content but may include anything we’ve studied or discussed in class. Quizzes are intended to demonstrate understanding of the assigned readings and class discussions. Unless otherwise noted, quizzes are open book, open notes. Use the web to help find answers to questions. Quizzes are untimed.
 
-## HW Assignments (30% of the course grade)
+## Assignments (50% of the course grade)
 
-Students will complete six homework assignments to reinforce the understandings of cryptography concepts and principles. Typically, there will be one homework assignment per week.
+There will be briefings or other written assignments for the knowledge and analysis work. We will use these to analyze events, develop products and study current events and topics. These typically involve reading/research resulting in a 2-3 page analysis report or product such as policy/standard. The All-University Writing Requirement (850 words for a 1-unit course, 1700 words for a 2-unit course, and 2500 words for courses of 3 or more units) is satisfied in this course through classroom activities and the major assignments.
 
-## Lab Projects (20% of the course grade)
+## In-class Activities (20% of the course grade)
 
-There will be two lab projects that will help students gain a hands-on experience on encryption algorithms, encryption modes, and public key infrastructure. Students will be able to use tools to encrypt/decrypt messages, to understand how public key infrastructure works, how it is used to protect the Web, and how Man-in-the-middle attacks can be defeated by public key infrastructure. The lab projects will be done in a virtual machine environment and a lab report is expected for each lab project.
+An important part of an information security professional’s job is explaining and discussing concepts. In this class you will demonstrate this capability by answering the assigned questions when called upon in class. You will not be required to answer every question, every class – but you must be prepared to do so.
 
-## In-class Activities (15% of the course grade)
+## Attendance and Participation
 
-Interaction and participation are important elements of learning. Although lectures are recorded most of the time, you are expected to participate in online activities. We recognize that schedules and timezones may impact an individual’s ability to participate in every online session, but students must arrange to participate at minimum in 50% of the online sessions or, arrange an alternate participation strategy with the instructor. An alternate participate strategy may consist of recording voice or video commentary or questions, posting and answering discussion forum topic or similar activity. Examples of typical participation in the online activities consist of discussing the assignments and lecture topics, answering assigned questions, and general conduct as one would see in a classroom.
+This class uses CougarCourses along with Zoom. Some lectures may be recorded, but you are required to attend the live sessions in order to receive credit for the in-class activities. We recognize that schedules and time zones may impact an individual’s ability to participate in every online session, but students must arrange to participate at minimum in 50% of the online sessions or, arrange an alternate participation strategy with the instructor. An alternate participate strategy may consist of recording voice or video commentary or questions, posting and answering discussion forum topic or similar activity.
 
-## Final (10% of the course grade)
+## Credit Hour Policy Statement
 
-The final will be a written exam to demonstrate your overall understanding of the major topics covered in this class, your ability to analyze and solve different cryptographic problems
+Per the University Credit Hour Policy: Students are expected to spend a minimum of two hours outside of the classroom each week for each unit of credit. This 3-unit class will require a minimum of six hours each week, in addition to recorded lectures and synchronous sessions.
 
 ## Grading
 
@@ -105,7 +102,7 @@ Grades will be assigned based on the cumulative score for all the coursework.
 
 ## Students with Disabilities Requiring Reasonable Accommodations
 
-Students with disabilities who require reasonable accommodations must be approved for services by providing appropriate and recent documentation to the Office of Disable Student Services (DSS). This office is located in Craven Hall 4300, and can be contacted by phone at (760) 750-4905, or TTY (760) 750-4909. Students authorized by DSS to receive reasonable accommodations should contact me via email or phone in order to discuss the accommodations.
+Students with disabilities who require reasonable accommodations must be approved for services by providing appropriate and recent documentation to the Disability Support Services (DSS) Office. This office is located in Craven Hall 4300, and can be contacted by phone at (760) 750-4905, or TTY (760) 750-4909, and by email sent to dss@csusm.edu. Students authorized by DSS to receive reasonable accommodations should meet with me during my office hours in order to ensure confidentiality.
 
 ## Grading Standard
 
@@ -113,9 +110,9 @@ All students must come to virtual class with reading and other assignments compl
 
 ## CSUSM Academic Honesty Policy
 
-> _Each student shall maintain academic honesty in the conduct of his or her studies and other learning activities at CSUSM. The integrity of this academic institution, and the quality of the education provided in its degree programs, are based on the principle of academic honesty._
+> _“Students will be expected to adhere to standards of academic honesty and integrity, as outlined in the Student Academic Honesty Policy. All written work and oral presentation assignments must be original work. All ideas/materials that are borrowed from other sources must have appropriate references to the original sources. Any quoted material should give credit to the source and be punctuated with quotation marks._
 >
-> _The maintenance of academic integrity and quality education is the responsibility of each student within this university and the California State University system. Cheating and plagiarism in connection with an academic program at a campus is listed in Section 41301, Title 5, California Code of Regulations, as an offense for which a student may be expelled, suspended, put on probation, or given a less severe disciplinary sanction._
+> _Students are responsible for honest completion of their work including examinations. There will be no tolerance for infractions. If you believe there has been an infraction by someone in the class, please bring it to the instructor’s attention. The instructor reserves the right to discipline any student for academic dishonesty in accordance with the general rules and regulations of the university. Disciplinary action may include the lowering of grades and/or the assignment of a failing grade for an exam, assignment, or the class as a whole.”_
 
 Incidents of Academic Dishonesty will be reported to the Dean of Students. Sanctions at the University level may include suspension or expulsion from the University.
 
@@ -133,3 +130,10 @@ If students have a question about the assignments, materials, concepts and so on
 If students need to contact me about a personal issue, please use email. It is my intention to respond to all email I receive on the day (it may be evening!) which I receive it. When someone asks a question or makes a comment via email that may be relevant to others, I will very likely post both the question and response in the forum in CougarCourses after removing the sender’s identity information.
 
 Electronic messages (email, forum posts) need not be formal, but they must be professional. Gross disregard for grammar, spelling and the need for punctuation is not acceptable in a professional environment -so let’s get used to it now. When we start talking about legal and ethical issues, there is a great deal of room for interpretation and disagreement. These discussions are encouraged, and being able to disagree with someone without offending them (or becoming offended) is an important skill. But all such communications needs to be thoughtful, respectful, impersonal and constructive.
+
+## WEEKLY COURSE OUTLINE
+|   | Topics/Objectives  | Chapter  | Assignments | In-Class Activities |
+|---|--------------------|----------|-------------|---------------------|
+| 1 |  Computer Network Secruity | Ch 1  | Quiz 1  | Problems 1.7  |
+| 2 |   |   |   |   |
+| 3 |   |   |   |   |
